@@ -1,6 +1,3 @@
-# Zhe's Portfolio
-Zhe's Data Science Portfolio
-
 # About Me
 Zhe is a Rutgers student in Data Science, with 2-year experience in Product Management and 1-year in consultancy.
 
