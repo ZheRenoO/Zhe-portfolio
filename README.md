@@ -1,5 +1,8 @@
 # About Me
 Zhe is a Rutgers student in Data Science, with 2-year experience in Product Management and 1-year in consultancy.
+<br>
+<br>
+<img src="https://github.com/tuzkizhe0301/zhe_portfolio/blob/master/images/Siemens-Profile-photo.jpeg" alt="alt text" width="200" height="200">
 
 # Project 1 
 *	Product analytics owner of bidding products. Defined key metrics across different phases of product life cycle; set up, scope, prioritize and align bi-monthly goals for cross-functional teams (analytics, product and engineer), and proposed data-based recommendations to influence them. Within 6 months, seized $5 million customer budget daily, and reduced 40% trading time to improve efficiency. <br>
