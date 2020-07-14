@@ -1,6 +1,9 @@
 # Zhe's Portfolio
 Zhe's Data Science Portfolio
 
+# About Me
+Zhe is a Rutgers student in Data Science, with 2-year experience in Product Management and 1-year in consultancy.
+
 # Project 1 
 *	Product analytics owner of bidding products. Defined key metrics across different phases of product life cycle; set up, scope, prioritize and align bi-monthly goals for cross-functional teams (analytics, product and engineer), and proposed data-based recommendations to influence them. Within 6 months, seized $5 million customer budget daily, and reduced 40% trading time to improve efficiency. <br>
 *	Built structured and efficient SQL and Python based ETL analysis and visualization tools for monitoring, outliers finding, forecasting, and providing insights to corporate management team, reducing manual procedures for product operators from 3 hours to 1 daily, and decision window from 8 hours to 2 weekly
